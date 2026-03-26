@@ -24,7 +24,7 @@
   display: none;
 }
 
-.theme-light .header__theme-menu-button {  
+.theme-light .header__theme-menu-button {
   color: #353430;
 }
 
@@ -64,7 +64,7 @@
     display: none;
   }
 
-  .theme-auto .header__theme-menu-button {  
+  .theme-auto .header__theme-menu-button {
     color: #353430;
   }
 
