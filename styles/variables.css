@@ -6,8 +6,15 @@
 
 :root {
   --bg-color: #000027;
+  --bg-image: url("../images/cover-image-dark.png");
+  --main-title-color: #db00ff;
+  --menu-btn-color: #ff0070;
   --text-color: #F1B2CE;
   --accent-color: #FF0070;
   --content-title-color: #FF0070;
   --decorate-color: #FF0070;
+  --hover-frame-color: rgba(255, 0, 112, 0.4);
+  --focus-bottom-border: #ff0070;
+  --avtive-button-color: #ff0070;
+  --link-underlining-color: #F1B2CE;
 }
